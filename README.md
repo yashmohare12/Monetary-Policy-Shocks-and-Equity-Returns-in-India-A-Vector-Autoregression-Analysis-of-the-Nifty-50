@@ -2,7 +2,7 @@
 # Monetary-Policy-Shocks-and-Equity-Returns-in-India-A-Vector-Autoregression-Analysis-of-the-Nifty-50
 
 
-his paper examines how equity returns in India respond to monetary policy shocks. Using
+This paper examines how equity returns in India respond to monetary policy shocks. Using
 202 monthly observations from January 2010 to October 2026, we estimate a four-variable
 vector autoregression (VAR) in changes in the Reserve Bank of India (RBI) repo rate, Brent
 crude oil returns, USD/INR exchange-rate returns and Nifty 50 returns. All series are sta-
